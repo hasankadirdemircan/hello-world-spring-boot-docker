@@ -36,7 +36,7 @@ $ docker image build -t hello-world-docker .
 $ docker container run -d -p 8080:8080 --name hello-world hello-world-docker
 ```
 ##### Test application
-for test the running ocker image
+for test the running docker image
 ```
 $ docker image ls
 ```
