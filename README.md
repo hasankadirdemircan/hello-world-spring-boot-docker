@@ -57,6 +57,6 @@ Or chrome running;
 
 <p align="center">
   <a href="#">
-    <img alt="Screen" title="Screen" src="https://user-images.githubusercontent.com/34090058/56055344-f4b19380-5d61-11e9-99ee-05cce1da1c35.png" width="1336">
+    <img alt="Screen" title="Screen" src="https://user-images.githubusercontent.com/34090058/56055344-f4b19380-5d61-11e9-99ee-05cce1da1c35.png" width="600">
   </a>
 </p>
