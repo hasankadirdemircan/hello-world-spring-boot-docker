@@ -1,8 +1,4 @@
 
-#### Prerequisite
-
-Installed: Docker, Java 1.8, Maven 3.x
-
 
 <h1 align="center"> Hello World Spring Boot with Docker </h1> <br>
 <p align="center">
@@ -10,6 +6,11 @@ Installed: Docker, Java 1.8, Maven 3.x
     <img alt="Techs" title="Techs" src="https://user-images.githubusercontent.com/34090058/56054717-393c2f80-5d60-11e9-95be-e92a3ee3b5f5.jpg" width="600">
   </a>
 </p>
+
+#### Prerequisite
+
+Installed: Docker, Java 1.8, Maven 3.x
+
 
 ## Introduction
 
