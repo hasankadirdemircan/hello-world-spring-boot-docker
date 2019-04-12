@@ -55,8 +55,8 @@ Hello World with Docker
 Or chrome running;
 ## Screen
 
-<p align="center">
+<p>
   <a href="#">
-    <img alt="Screen" title="Screen" src="https://user-images.githubusercontent.com/34090058/56055344-f4b19380-5d61-11e9-99ee-05cce1da1c35.png" width="600">
+    <img alt="Screen" title="Screen" src="https://user-images.githubusercontent.com/34090058/56055344-f4b19380-5d61-11e9-99ee-05cce1da1c35.png" width="300">
   </a>
 </p>
