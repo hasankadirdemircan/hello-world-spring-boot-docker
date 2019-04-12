@@ -52,7 +52,7 @@ the respone should be
 ```
 Hello World with Docker
 ```
-Or chrome running;
+Or proxy running;
 ## Screen
 
 <p>
